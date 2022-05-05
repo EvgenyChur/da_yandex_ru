@@ -14,7 +14,7 @@ Projects description:
 <td><b>Используемые модули</b></td>
 <tr>
 <td><b>1</b></td>
-<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_1.ipynb" target="_blank"><b>Яндекс.Музыка</b></a></td>
+<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/project_1.ipynb" target="_blank"><b>Яндекс.Музыка</b></a></td>
 <td>Проанализировать музыкальные предпочтения жителей г. Москва и г. Санкт-Петербург на основе данных полученных из приложения Яндекс Музыка</td>
 <td><b>pandas</b></td>
 <tr>
