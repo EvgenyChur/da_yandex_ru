@@ -138,4 +138,4 @@
 [english]:  https://github.com/EvgenyChur/Project_Yandex/
 
 [da]: https://praktikum.yandex.ru/data-analyst/
-[prog] : https://drive.google.com/file/d/1TXA81otvDAEGhCSOPfmC031PNQKHWt6U/view?usp=sharing
+[prog]: https://drive.google.com/file/d/1TXA81otvDAEGhCSOPfmC031PNQKHWt6U/view?usp=sharing
