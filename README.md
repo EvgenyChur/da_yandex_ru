@@ -63,10 +63,18 @@
 <td>Вы работаете в стартапе, который продаёт продукты питания. Нужно разобраться, как ведут себя пользователи вашего мобильного приложения.</td>
 <td><b>math</b>, <b>numpy</b>, <b>pandas</b>, <b>datetime</b>, <b>seaborn</b>, <b>scipy</b>, <b>matplotlib</b>, <b>requests</b>, <b>BytesIO</b>, <b>warnings</b></td>
 <tr>  
- 
- 
- 
- 
+<td><b>11</b></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/project_11.ipynb" target="_blank"><b>Создание и настройка дашборда.</b></a></td>
+<td>Вы работаете аналитиком в Яндекс.Дзене. Почти всё ваше время занимает анализ пользовательского взаимодействия с карточками статей. Каждую карточку определяют её тема и источник (у него тоже есть тема).</td>
+<td><b>pandas</b>, <b>sqlalchemy</b></td>
+<tr> 
+<td><b>12</b></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/project_12.ipynb" target="_blank"><b>Основы машинного обучения.</b></a></td>
+<td>Сеть фитнес-центров «Культурист-датасаентист» разрабатывает стратегию взаимодействия с клиентами на основе аналитических данных.</td>
+<td><b>math</b>, <b>numpy</b>, <b>pandas</b>, <b>datetime</b>, <b>seaborn</b>, <b>scipy</b>, <b>matplotlib</b>, <b>itertools</b>, <b>sklearn</b>, <b>warnings</b></td>
+<tr>  
+
+
 </table>
 <br/><br/>
 
