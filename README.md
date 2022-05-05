@@ -21,7 +21,7 @@ Projects description:
 <td><b>2</b></td>
 <td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/project_2.ipynb" target="_blank"><b>Исследование надёжности заёмщиков</b></a></td>
 <td>Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.</td>
-<td><b>pandas</b><b>numpy</b></td>
+<td><b>pandas</b>, <b>numpy</b></td>
 <tr>  
   
  
