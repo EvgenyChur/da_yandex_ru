@@ -1,9 +1,18 @@
-# da_yandex_ru
-Самостоятельные и практические задания выполненные в рамках курса от Яндекс Практикума. 
+# Результаты обучения по программе [аналитик данных][da] от Яндекс практикум
 
 
-# <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Yandex.Praktikum "Data Analyst course"</b></a>
 
+В рамках курса использовал такие технологии и инструменты, как:
+1. Python
+2. Jupyter Notebook
+3. SQL
+4. PostgreSQL
+5. Tableau
+6. A/B tests
+7. 
+и следовал следующей [программе курса][prog]
+
+## Самостоятельные и практические работы
 <br/>
 Описание проектов:
 <table>
@@ -132,3 +141,5 @@
   
 [english]:  https://github.com/EvgenyChur/Project_Yandex/
 
+[da]: https://praktikum.yandex.ru/data-analyst/
+[prog] : https://code.s3.yandex.net/landings-v2-data-analyst/Curriculum/data-analyst-syllabus.pdf
