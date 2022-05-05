@@ -73,12 +73,50 @@
 <td>Сеть фитнес-центров «Культурист-датасаентист» разрабатывает стратегию взаимодействия с клиентами на основе аналитических данных.</td>
 <td><b>math</b>, <b>numpy</b>, <b>pandas</b>, <b>datetime</b>, <b>seaborn</b>, <b>scipy</b>, <b>matplotlib</b>, <b>itertools</b>, <b>sklearn</b>, <b>warnings</b></td>
 <tr>  
-
-
 </table>
 <br/><br/>
 
 
+## Выпускной проект в формате буткемпа
+Следующие три недели вы будете джуниор-аналитиком, который решает первые серьёзные задачи от крупных заказчиков. Работать вам предстоит как над крупным проектом, так и над небольшими задачами — всё как в жизни.
+
+<br/>
+Описание проектов:
+<table>
+<tr>
+<td><b>Часть задания</b></td>
+<td><b>Название задания</b></td>
+<td><b>Описание задания</b></td>
+<td><b>Используемые модули</b></td>
+<tr>
+<td><b>1</b></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/part_1.ipynb" target="_blank"><b>Декомпозиция</b></a></td>
+<td>Разбивка задачи проекта на шаги. Составив чёткий план решения задачи и утвердив его с тимлидом, вы избежите лишних доработок и сможете быстрее завершить проект.</td>
+<td><b></b></td>
+<tr>
+<td><b>2</b></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/part_2.ipynb" target="_blank"><b>Банки — Сегментация пользователей по потреблению.</b></a></td>
+<td>Банк в срочном порядке ищет аналитиков c уверенным владением Python. Вашей главной задачей станет сегментирование пользователей банка. Сегментация покажет, как клиенты пользуются нашими услугами. «Метанпромбанк» — деньги не пахнут!</td>
+<td><b>math</b>, <b>numpy</b>, <b>pandas</b>, <b>datetime</b>, <b>seaborn</b>, <b>scipy</b>, <b>matplotlib</b>, <b>sklearn</b>, <b>warnings</b></td>
+<tr>
+<td><b>3</b></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/part_3.ipynb" target="_blank"><b>Проект по А/B-тестированию</b></a></td>
+<td>Предоставлен набор данных с действиями пользователей, которые нужно использовать для выявления последствий от внедрения новой улучшенной системы рекомендаций.</td>
+<td><b>math</b>, <b>numpy</b>, <b>pandas</b>, <b>datetime</b>, <b>scipy</b>, <b>matplotlib</b>, <b>warnings</b></td>
+<tr>
+<td><b>4</b></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/part_4.ipynb" target="_blank"><b>Проект по SQL</b></a></td>
+<td>Коронавирус застал мир врасплох, изменив привычный порядок вещей. В свободное время жители городов больше не выходят на улицу, не посещают кафе и торговые центры. Зато стало больше времени для книг. Это заметили стартаперы — и бросились создавать приложения для тех, кто любит читать. Ваша компания решила быть на волне и купила крупный сервис для чтения книг по подписке. Ваша первая задача как аналитика — проанализировать базу данных.</td>
+<td><b>pandas</b>, <b>sqlalchemy</b></td>
+<tr>
+</table>
+<br/><br/>
+  
+  
+  
+  
+  
+  
 ## <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Additional information:</b></a>
 
 The first 4 projects were translated to English with the help of the [DeepL translator][1], projects 5 - 8 are presented in Russian.
