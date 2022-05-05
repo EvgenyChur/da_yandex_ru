@@ -1,7 +1,5 @@
 # Результаты обучения по программе [аналитик данных][da] от Яндекс практикум
 
-
-
 В рамках курса использовал такие технологии и инструменты, как:
 1. Python
 2. Jupyter Notebook
@@ -9,7 +7,7 @@
 4. PostgreSQL
 5. Tableau
 6. A/B tests
-7. 
+
 и следовал следующей [программе курса][prog]
 
 ## Самостоятельные и практические работы
@@ -142,4 +140,4 @@
 [english]:  https://github.com/EvgenyChur/Project_Yandex/
 
 [da]: https://praktikum.yandex.ru/data-analyst/
-[prog] : https://code.s3.yandex.net/landings-v2-data-analyst/Curriculum/data-analyst-syllabus.pdf
+[prog] : https://drive.google.com/file/d/1TXA81otvDAEGhCSOPfmC031PNQKHWt6U/view?usp=sharing
