@@ -134,7 +134,7 @@
 [dashboard1]: https://public.tableau.com/app/profile/evgenii4045/viz/Project_Tablo/Dashboard1
 [dashboard2]: https://public.tableau.com/views/Finalproject_16509803045450/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-[english]:  https://github.com/EvgenyChur/Project_Yandex/
+[english]:  https://github.com/EvgenyChur/da_yandex_en/
 
 [da]: https://praktikum.yandex.ru/data-analyst/
 [prog]: https://drive.google.com/file/d/1TXA81otvDAEGhCSOPfmC031PNQKHWt6U/view?usp=sharing
