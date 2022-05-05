@@ -114,15 +114,21 @@
   
  ## Дополнительные материалы и ссылки
  1. Подготовленные презентации проектов:
+    1. [Презентация к заданию][presentation1] - рынок заведений общественного питания Москвы
+    2. [Презентация к заданию][presentation2] - создание и настройка дашборда
+    3. [Презентация выпускного проекта][presentation3]
  2. Подготовленные дашборды в Tableau:
-    1. fd
-       
-  
-  
-  
-## <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Additional information:</b></a>
+    1. [Дашборд к заданию - создание и настройка дашборда][dashboard1]
+    2. [Дашборд выпускного проекта][dashboard2]
+ 3. Практические и самостоятельные [работы переведенные на английский язык][english]
+ 
+ 
+[presentation1]: https://drive.google.com/file/d/1zw9X8UqvbUZ-JfEMvSduedzIZpFIk_8U/view?usp=sharing
+[presentation2]: https://drive.google.com/file/d/1Xgoqs6e06QrPZ2jNLEgMZjfavOGx16YQ/view?usp=sharing
+[presentation3]: https://docs.google.com/presentation/d/1GKQ_Jg4wzSAPsLpUyq-DvHMVNON3pDfU/edit?usp=sharing&ouid=115370727695513060066&rtpof=true&sd=true
 
-The first 4 projects were translated to English with the help of the [DeepL translator][1], projects 5 - 8 are presented in Russian.
+[dashboard1]: https://public.tableau.com/app/profile/evgenii4045/viz/Project_Tablo/Dashboard1
+[dashboard2]: https://public.tableau.com/views/Finalproject_16509803045450/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+  
+[english]:  https://github.com/EvgenyChur/Project_Yandex/
 
-
-[1]: https://www.deepl.com/translator
