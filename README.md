@@ -27,7 +27,15 @@
 <td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/project_3.ipynb" target="_blank"><b>Исследование объявлений о продаже квартир</b></a></td>
 <td>В вашем распоряжении данные сервиса Яндекс Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>warnings</b>, <b>datetime</b></td>
+<tr> 
+<td><b>4</b></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/project_4.ipynb" target="_blank"><b>Определение перспективного тарифа для телеком-компании</b></a></td>
+<td>Вы аналитик компании «Мегалайн» — федерального оператора сотовой связи. Клиентам предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег.</td>
+<td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>scipy</b>, <b>warnings</b>, <b>datetime</b>, <b>calendar</b></td>
 <tr>  
+ 
+ 
+ 
  
 </table>
 <br/><br/>
