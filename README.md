@@ -82,7 +82,6 @@
 </table>
 <br/><br/>
 
-
 ## Выпускной проект в формате буткемпа
 Следующие три недели вы будете джуниор-аналитиком, который решает первые серьёзные задачи от крупных заказчиков. Работать вам предстоит как над крупным проектом, так и над небольшими задачами — всё как в жизни.
 
@@ -134,7 +133,7 @@
 
 [dashboard1]: https://public.tableau.com/app/profile/evgenii4045/viz/Project_Tablo/Dashboard1
 [dashboard2]: https://public.tableau.com/views/Finalproject_16509803045450/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-  
+
 [english]:  https://github.com/EvgenyChur/Project_Yandex/
 
 [da]: https://praktikum.yandex.ru/data-analyst/
